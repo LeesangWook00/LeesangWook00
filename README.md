@@ -1,1 +1,1 @@
-![메인배너](Banner(2).png)
+<img src="Banner (2).png" width="100%">
