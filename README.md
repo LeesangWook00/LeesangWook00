@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![메인배너](https://github.com/LeesangWook00/sangsang3/blob/main/방금올린이미지이름.png?raw=true)
 <!--
 **LeesangWook00/LeesangWook00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
