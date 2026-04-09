@@ -1,5 +1,4 @@
 # 안녕하세요, AI 엔지니어를 꿈꾸는 이상욱입니다! 👋
-
 ![메인배너](White Minimalist Corporate Personal Profile LinkedIn Banner.png)
 
 ### 🛠 Tech Stack
