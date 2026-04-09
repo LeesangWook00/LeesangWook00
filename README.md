@@ -1,6 +1,6 @@
 # 안녕하세요, AI 엔지니어를 꿈꾸는 이상욱입니다! 👋
 
-![메인배너](여기에_이미지_주소가_자동으로_들어갈거예요)
+![메인배너]()
 
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
