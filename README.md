@@ -1,16 +1,74 @@
-## Hi there 👋
-![메인배너](https://github.com/LeesangWook00/sangsang3/blob/main/방금올린이미지이름.png?raw=true)
-<!--
-**LeesangWook00/LeesangWook00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  [이상욱] | 클라우드 & AI 엔지니어 포트폴리오
 
-Here are some ideas to get you started:
+> **"데이터와 AI를 이해하고, 안정적인 클라우드 인프라를 구축하는 엔지니어"**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+안녕하세요! 유한대학교 인공지능 전공 3학년에 재학 중인 이상욱입니다.  
+AI 전공 지식을 바탕으로 데이터 유동성을 이해하며, **AWS MSP(Managed Service Provider)** 분야에서 고객사의 인프라를 안정적으로 운영하고 최적화하는 전문가로 성장하는 것이 목표입니다.
+
+---
+## Tech Stacks
+
+### **Core Skills (MSP 직무 관련)**
+* **Cloud:** AWS (EC2, S3, VPC, IAM 기초 실습 및 아키텍처 이해)
+* **Linux:** 리눅스 기본 명령어 활용 및 서버 환경에 대한 이해
+* **Infrastructure:** 컴퓨터 구조, 네트워크 프로그래밍 교과 이수를 통한 탄탄한 기초 지식
+
+### **Programming & Data**
+* **Languages:** Python (기계학습 및 데이터 분석), Java (자료구조 구현), SQL (Oracle DB 설계 및 쿼리)
+* **AI/Data:** Machine Learning (Scikit-learn 기초), Data Visualization
+
+---
+
+##  Core Competencies (주요 역량)
+
+| 구분 | 상세 내용 | 관련 교과목 |
+| :--- | :--- | :--- |
+| **Cloud Infrastructure** | AWS EC2, S3 등 핵심 서비스 인스턴스 생성 및 보안 그룹 설정 실습 경험 | 클라우드서비스 |
+| **System & Network** | 리눅스 서버 환경 이해 및 네트워크 프로그래밍을 통한 소켓 통신 기초 구현 | 리눅스실습, 네트워크프로그래밍 |
+| **AI & Data Analysis** | Python 기반 머신러닝 라이브러리 활용, 데이터 전처리 및 모델링 기초 프로젝트 수행 | 기계학습(1,2), 파이썬프로그래밍(1,2) |
+| **Database** | 관계형 DB 설계(ERD) 및 복잡한 SQL 쿼리문 작성, 웹 애플리케이션 연동 경험 | 데이터베이스기초/프로그래밍 |
+
+---
+
+##  Projects (Technical Highlights)
+
+> 프로젝트의 결과 보고서는 아래 개별 저장소 링크를 통해 확인하실 수 있습니다.
+
+---
+
+### **1. MxNET/PyTorch 활용 선형회귀 객체지향 분석**
+> **선형회귀 모델의 밑바닥(Scratch) 구현과 엔진(Concise) 활용 비교 분석** > *(PBL 팀 프로젝트)* 
+
+* **개발기간** : 2025.06 ~ 2025.06 
+* **핵심 역할** : 공동 연구 및 보고서 작성, 선형회귀 알고리즘 구현 및 성능 비교 분석 
+* **개발 환경** : Python, PyTorch, MxNET Framework
+
+#### **⚙️ 주요 분석 내용**
+* **객체지향 디자인 패턴 적용:** Module, DataModule, Trainer 등 독립적인 클래스 설계를 통한 기계학습 파이프라인 구조 분석
+* **알고리즘 구현 비교:**
+    * **Scratch:** 파라미터 초기화부터 역전파(Backward), 경사하강법(SGD)까지 직접 구현하여 동작 원리 파악 
+    * **Concise:** 프레임워크 내장 API를 활용한 효율적인 모델 생성 및 최적화 방법 습득 
+* **최적화 알고리즘 학습:** 미니배치 스토캐스틱 경사하강법(SGD)의 수식적 이해 및 학습률(lr) 튜닝 실습 
+
+#### **✨ 기술적 성장**
+* 단순 모델 활용을 넘어, 클래스 간의 입력·동작·출력 관계를 분석하며 **확장성 있는 코드 설계 능력**을 배양함
+* 복잡한 인공지능 모델(영상, 언어 등)을 다루기 위한 **기계학습의 기초 파이프라인(Data-Model-Loss-Optimization) 전 과정을 완벽히 이해**하였습니다
+*[🔗 기계학습1 PBL 결과보고서 보기](./0526-기계학습1-12주차-3-기계학습1_PBL_결과보고서.hwp)
+
+
+
+
+
+---
+
+## ⭐ Strength (핵심 강점)
+
+1.  **탄탄한 전공 기초:** 인공지능 전공자로서 수학적 사고와 데이터 분석 능력을 갖추고 있어, MSP 직무 수행 시 데이터 유동성을 깊이 있게 이해할 수 있습니다.
+2.  **실무 지향적 학습:** 단순히 수업을 듣는 것에 그치지 않고, 깃허브에 프로젝트를 기록하며 실질적인 구현 역량을 쌓고 있습니다.
+3.  **성장 의지:** 정보처리산업기사 자격증을 준비하며 이론을 다지고, 실제 AWS MSP 직무에 투입될 수 있는 실력을 갖추기 위해 끊임없이 노력합니다.
+
+---
+
+## 📫 Contact
+- **Email:** [dltkddnr4321@naver.com]
+- **Major:** 유한대학교 인공지능 전공 (3학년 재학 중)
