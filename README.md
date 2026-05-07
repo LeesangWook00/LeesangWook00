@@ -1,4 +1,4 @@
-<img src="Banner.png" width="100%">
+<img src="https://github.com/DavidMao8849/DavidMao8849/blob/main/Banner.png?raw=true" width="100%">
 
 ### 🛠 테크 스택
 <table>
