@@ -1,4 +1,6 @@
-<img src="https://github.com/DavidMao8849/DavidMao8849/blob/main/Banner.png?raw=true" width="100%">
+<img src="https://raw.githubusercontent.com/DavidMao8849/DavidMao8849/main/Banner.png" width="100%">
+
+<br/>
 
 ### 🛠 테크 스택
 <table>
