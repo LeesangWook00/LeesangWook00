@@ -1,6 +1,7 @@
-<img src="Banner (2).png" width="100%">
+<img src="https://github.com/sangwook00/sangwook00/blob/main/Banner%20(2).png?raw=true" width="100%" alt="Profile Banner">
 
 ### 🛠 테크 스택
+
 <table>
   <tr>
     <td width="200px"><b>Programming Languages</b></td>
@@ -31,5 +32,3 @@
     </td>
   </tr>
 </table>
-
----
