@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DavidMao8849/DavidMao8849/main/Banner.png?t=12345" width="100%">
+<img src="./Banner.png" width="100%">
 
 <br/>
 
